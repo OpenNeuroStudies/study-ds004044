@@ -1,3 +1,6 @@
 [submodule "ds004044"]
 	path = sourcedata/ds004044
 	url = https://github.com/OpenNeuroDatasets/ds004044.git
+[submodule "ds004044-fmriprep"]
+	path = derivatives/fMRIPrep-23.2.0
+	url = https://github.com/OpenNeuroDerivatives/ds004044-fmriprep.git
